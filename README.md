@@ -35,4 +35,4 @@ El jugador selecciona un personaje y la computadora elige otro al azar. El objet
 ## Uso de Inteligencia Artificial
 
 * **ChatGPT:** se utilizó para comprender cómo implementar los eventos de los botones, la lógica del juego, el sistema de puntuación y para resolver dudas relacionadas con HTML, CSS y JavaScript.
-* **(Añade aquí otra IA si utilizaste alguna más, por ejemplo Gemini o Copilot).**
+
